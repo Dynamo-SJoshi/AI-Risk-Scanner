@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/AI-Risk-Scanner/", // <--- This fixes the 404 error
+  base: "/AI-Risk-Scanner/", // <--- THIS LINE FIXES THE ERROR
 })
