@@ -4,6 +4,8 @@ An intelligent legal tech tool that analyzes contracts, identifies potential ris
 
 🚀 Live Demo: https://ai-document-analyzer-1-0.onrender.com/
 
+📹 Video Guide: https://drive.google.com/file/d/1MR4ZJaVs9gYaI55j_2rtv-Gb7goV9mY4/view?usp=sharing
+
 ✨ New Features
 
 📄 PDF Document Upload: Users can now upload PDF contracts directly. The app scans and transcribes the document text automatically for analysis.
