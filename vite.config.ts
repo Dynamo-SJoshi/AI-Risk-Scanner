@@ -1,8 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/AI-Risk-Scanner/", // <--- THIS LINE FIXES THE ERROR
+  // IMPORTANT: This must be '/' for Render. 
+  // If it was set to '/AI-Risk-Scanner/', change it back to '/'
+  base: '/', 
 })
