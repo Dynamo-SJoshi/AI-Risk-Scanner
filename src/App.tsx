@@ -18,7 +18,7 @@ interface AnalysisResult {
 }
 
 // --- CONFIGURATION ---
-const apiKey = "AIzaSyCvkZXEG9Ajt5xO_n6UhDJPLKGrx6PM36s"; 
+const apiKey = "AIzaSyDE-197813t1qSCiWxBXX2gsMpN3F7gN6Y"; 
 
 // --- API Logic ---
 const analyzeContractWithGemini = async (text: string): Promise<Risk[]> => {
